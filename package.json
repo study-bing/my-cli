@@ -1,10 +1,11 @@
 {
   "name": "coder-bing-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "bin": {
-    "bingCli": "index.js"
+    "bingCli": "index.js",
+    "bingCliTest": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +20,7 @@
     "ejs": "^3.1.6",
     "inquirer": "^8.2.0",
     "open": "^8.3.0",
-    "ora": "^6.0.1"
+    "ora": "^6.0.1",
+    "validate-npm-package-name": "^3.0.0"
   }
 }
