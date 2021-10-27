@@ -9,7 +9,7 @@ npm install coder-bing-cli -g
 
 ## 创建项目
 
-目前支持Vue2，后期会制作vue3
+目前支持Vue2，vue3
 
 vue项目模块已经帮你配置：
 
@@ -18,7 +18,9 @@ vue项目模块已经帮你配置：
 * axios（网络请求axios的安装以及二次封装）
 * vue-router（router的安装和配置，另外有路由的动态加载，后面详细说明）
 * vuex（vuex的安装和配置，另外有动态加载子模块，后面详细说明）
-* vue-ls (https://www.baidu.com/link?url=dlQgtnfzlHFxV8ycRLF-ZFunejCy47CIRelb_a0dxK79CVHPQQL4_iftz4hhOUrE&wd=&eqid=bb1f034100108dbd000000046163df0c)
+* vue-ls（vue3暂不支持） (https://www.baidu.com/link?url=dlQgtnfzlHFxV8ycRLF-ZFunejCy47CIRelb_a0dxK79CVHPQQL4_iftz4hhOUrE&wd=&eqid=bb1f034100108dbd000000046163df0c)
+
+
 创建项目
 
 ```shell
