@@ -99,3 +99,9 @@ files.keys().filter(key => {
   modules[`${moduleName}`] = module.default;
 })
 ```
+
+
+### 检查更新
+```shell
+bingCli upgrade
+```
